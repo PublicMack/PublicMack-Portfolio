@@ -1,0 +1,1 @@
+# Placeholder Python file for project: 05-Simple-Blog-CMS
